@@ -1,0 +1,96 @@
+[33mcommit e13baebf31f1dfb0670bf853281cedf111376a4b[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Igor Moura <igor.moura@br.experian.com>
+Date:   Wed Feb 23 14:50:15 2022 -0300
+
+    arquivo resgatado com sucesso
+
+[33mcommit 85f9354652edfd61cd06d1f50cae2490953d3ab1[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Igor Moura <igor.moura@br.experian.com>
+Date:   Wed Feb 23 14:44:35 2022 -0300
+
+    swagger 5
+
+[33mcommit 17bd025419bca4cd1db083caa83bda5ad7338d1d[m[33m ([m[1;32mfeature/new-function[m[33m)[m
+Merge: 7420cbc c0bdeac
+Author: Igor Moura <igor.moura@br.experian.com>
+Date:   Wed Feb 23 14:42:11 2022 -0300
+
+    Conflito resolvido
+
+[33mcommit c0bdeac23e4406be55d798bc10c3c17aae4aec25[m
+Author: Igor Moura <igor.moura@br.experian.com>
+Date:   Wed Feb 23 14:38:18 2022 -0300
+
+    swagger 4
+
+[33mcommit 7420cbc8352f5dfef44d08dd0477b937b079a67c[m
+Author: Igor Moura <igor.moura@br.experian.com>
+Date:   Wed Feb 23 14:37:52 2022 -0300
+
+    swagger 3
+
+[33mcommit ee0838e238affc0b6c521903daf05b3f3e6e368d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mateusz Dąbrowski <mateusz.dabrowski7@gmail.com>
+Date:   Wed Oct 28 09:22:29 2020 +0100
+
+    Spring boot tutorial part 11 - Integration tests
+
+[33mcommit 68c63cf985660258d2e4917d42befff7662c7d11[m
+Author: Mateusz Dąbrowski <mateusz.dabrowski7@gmail.com>
+Date:   Tue Oct 13 22:31:20 2020 +0200
+
+    Spring boot tutorial part 10 - Migrating to Mysql
+
+[33mcommit 9dbb8aafe8f45866ca5ddb4a7ecd527326252fa2[m
+Author: Mateusz Dąbrowski <mateusz.dabrowski7@gmail.com>
+Date:   Thu Oct 1 10:24:56 2020 +0200
+
+    Spring boot tutorial part 9 - Liquibase
+
+[33mcommit e47411b0e9e2ac8d16bd4ee0ef2356bc0f2e8f41[m
+Author: Mateusz Dąbrowski <mateusz.dabrowski7@gmail.com>
+Date:   Sun Sep 13 21:16:29 2020 +0200
+
+    Spring boot tutorial part 8 - Spring Cache, Ehcache
+
+[33mcommit 3d101371534b4d645b139f5e286f600900e769a2[m
+Author: Mateusz Dąbrowski <mateusz.dabrowski7@gmail.com>
+Date:   Tue May 26 11:14:20 2020 +0200
+
+    Spring boot tutorial part 7 - Spring Security, Json Web Token
+
+[33mcommit 1b97fd3946f1e44109bd969afcfa68d2960f5222[m
+Author: Mateusz Dąbrowski <mateusz.dabrowski7@gmail.com>
+Date:   Fri May 15 14:06:19 2020 +0200
+
+    Spring boot tutorial part 6 - Adding, editing, deleting
+
+[33mcommit 570bb4226014389373dca4c4b0cd7b0309db382a[m
+Author: Mateusz Dąbrowski <mateusz.dabrowski7@gmail.com>
+Date:   Thu May 7 12:42:23 2020 +0200
+
+    Spring boot tutorial part 5 - Get paged result from post with comments, Spring Data sorting added
+
+[33mcommit ed602ffb7fdd3b9a80144fe0ac8c85a3f04b4fa3[m
+Author: Mateusz Dąbrowski <mateusz.dabrowski7@gmail.com>
+Date:   Thu May 7 12:37:24 2020 +0200
+
+    Spring boot tutorial part 4 - Hibernate N+1 problem solved, Spring Data pagination added
+
+[33mcommit 52ec863cf42a89aadeb3d6bc477b2445c9af0e65[m
+Author: Mateusz Dąbrowski <mateusz.dabrowski7@gmail.com>
+Date:   Sun May 3 22:06:57 2020 +0200
+
+    Spring boot tutorial part 3 - PostController, PostService and PostRepository, Db changes
+
+[33mcommit ff6bf2368acf7aef193853865a0e9d9744427060[m
+Author: Mateusz Dąbrowski <mateusz.dabrowski7@gmail.com>
+Date:   Thu Apr 30 18:11:37 2020 +0200
+
+    Spring Boot tutorial part 1-2
+
+[33mcommit 7a70560f02e326387f595b50a38a18a9f3aac397[m
+Author: Mateusz Dąbrowski <761676+matdabrowski@users.noreply.github.com>
+Date:   Sun May 3 22:08:44 2020 +0200
+
+    Initial commit
