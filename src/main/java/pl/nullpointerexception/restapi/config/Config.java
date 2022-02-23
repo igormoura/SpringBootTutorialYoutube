@@ -37,7 +37,7 @@ public class Config {
     private SecurityContext createContext() {
         return SecurityContext.builder()
                 .securityReferences(createRef())
-                .forPaths(PathSelectors.any())
+                .forPaths(PathSelectors.any()) 
                 .build();
     }
 
