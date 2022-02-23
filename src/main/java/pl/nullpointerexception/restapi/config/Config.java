@@ -25,7 +25,7 @@ public class Config {
 
     @Bean
     public Docket swaggerApi() {
-        return new Docket(DocumentationType. SWAGGER_5 )
+        return new Docket(DocumentationType. SWAGGER_3 )
                 .ignoredParameterTypes(UsernamePasswordAuthenticationToken.class)
                 .select()
                 .paths(PathSelectors. regex ( "^(?!/(error).*$).*$" ))
@@ -37,7 +37,7 @@ public class Config {
     private SecurityContext createContext() {
         return SecurityContext.builder()
                 .securityReferences(createRef())
-                .forPaths(PathSelectors.any()) 
+                .forPaths(PathSelectors.any())
                 .build();
     }
 
